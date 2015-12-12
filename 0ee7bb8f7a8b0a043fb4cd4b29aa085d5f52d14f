@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "key": {
+        "uuid": "3fa0c359_c29a466d",
+        "filename": "cm.dependencies",
+        "patchSetId": 4
+      },
+      "lineNbr": 25,
+      "author": {
+        "id": 10067
+      },
+      "writtenOn": "2015-12-12T17:16:46Z",
+      "side": 1,
+      "message": "Still there\u0027s a whitespace.",
+      "revId": "0ee7bb8f7a8b0a043fb4cd4b29aa085d5f52d14f",
+      "serverId": "1ec6b3db-b2c1-4fa4-84a2-4c7efe89ba71",
+      "unresolved": false
+    }
+  ]
+}
